@@ -14,6 +14,6 @@ This project is a microservices-based order management system built with C# and 
 - [x] Initial Project Setup
 - [x] Task 1: Basic Order API (CRUD)
 - [x] Task 2: Inventory API & Stock Reservation
-- [ ] Task 3: Payment Service & Transaction Handling
+- [x] Task 3: Payment Service & Transaction Handling
 - [ ] Task 4: Notification Service (RabbitMQ Integration)
 - [ ] Task 5: API Gateway & Service Discovery

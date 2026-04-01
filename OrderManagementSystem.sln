@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderServic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryService", "InventoryService\InventoryService.csproj", "{F7E5A952-8C4A-43C6-B836-DA9873995F85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentService", "PaymentService\PaymentService.csproj", "{6909DAAC-690C-4823-B834-79B89F5655CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{F7E5A952-8C4A-43C6-B836-DA9873995F85}.Release|x64.Build.0 = Release|Any CPU
 		{F7E5A952-8C4A-43C6-B836-DA9873995F85}.Release|x86.ActiveCfg = Release|Any CPU
 		{F7E5A952-8C4A-43C6-B836-DA9873995F85}.Release|x86.Build.0 = Release|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Debug|x64.Build.0 = Debug|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Release|x64.ActiveCfg = Release|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Release|x64.Build.0 = Release|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{6909DAAC-690C-4823-B834-79B89F5655CB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
